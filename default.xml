@@ -18,6 +18,12 @@
            sync-c="true"
            sync-j="4" />
 
+  <!-- KYLEPROXX -->
+  <project path="device/samsung/kylepro" name="Samsung-KYLEPROXX/android_device_samsung_kylepro" remote="github" revision="cm-13.0" />
+  <project path="device/samsung/kyleprods" name="Samsung-KYLEPROXX/android_device_samsung_kyleprods" remote="github" revision="cm-13.0" />
+  <project path="kernel/samsung/kyleproxx" name="Samsung-KYLEPROXX/android_kernel_samsung_kyleproxx" remote="github" revision="cm-13.0" />
+  <project path="vendor/samsung/kyleproxx" name="Samsung-KYLEPROXX/android_vendor_samsung_kyleproxx" remote="github" revision="master" />
+
 <!-- BEGIN CYANOGENMOD -->
   <project path="build" name="CyanogenMod/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
