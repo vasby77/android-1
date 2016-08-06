@@ -24,6 +24,12 @@
 
   <project path="android" name="CyanogenMod/android" />
 
+  <!-- KYLEPROXX -->
+  <project path="device/samsung/kylepro" name="Samsung-KYLEPROXX/android_device_samsung_kylepro" remote="github" revision="cm-12.1" />
+  <project path="device/samsung/kyleprods" name="Samsung-KYLEPROXX/android_device_samsung_kyleprods" remote="github" revision="cm-12.1" />
+  <project path="kernel/samsung/kyleproxx" name="Samsung-KYLEPROXX/android_kernel_samsung_kyleproxx" remote="github" revision="cm-12.1" />
+  <project path="vendor/samsung/kyleproxx" name="Samsung-KYLEPROXX/android_vendor_samsung_kyleproxx" remote="github" revision="master" />
+
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
   <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
