@@ -18,7 +18,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <!-- KYLEPROXX -->
+  <!-- logan -->
   <project path="device/samsung/logan" name="vasby77/android_device_logan" remote="github" revision="cm-13.0" />
   <project path="kernel/samsung/logan" name="vasby77/android_kernel_samsung_loganxx" remote="github" revision="cm-13.0" />
   <project path="vendor/samsung/logan" name="vasby77/android_vendor_logan" remote="github" revision="cm-13.0" />
