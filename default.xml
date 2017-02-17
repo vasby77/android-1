@@ -20,10 +20,10 @@
 
   <!-- logan -->
   <project path="device/samsung/logan" name="vasby77/android_device_logan" remote="github" revision="cm-13.0" />
-  <project path="kernel/samsung/logan" name="vasby77/android_kernel_samsung_bcm" remote="github" revision="cm-13.0" />
+  <project path="kernel/samsung/logan" name="vasby77/android_kernel_samsung_loganxx" remote="github" revision="cm-13.0" />
   <project path="vendor/samsung/logan" name="vasby77/android_vendor_logan" remote="github" revision="cm-13.0" />
   <project path="kernel/samsung/bcm" name="vasby77/android_kernel_samsung_bcm" remote="github" revision="cm-13.0" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" groups="linux,arm" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
+  <project path="prebuilts/gcc/linux-x86/arm" name="vasby77/android_prebuilts_gcc" remote="github" revision="master" />
 
 <!-- BEGIN LINEAGEOS -->
   <project path="build" name="LineageOS/android_build" groups="pdk" >
