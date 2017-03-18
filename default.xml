@@ -206,8 +206,8 @@
   <project path="hardware/libhardware" name="LineageOS/android_hardware_libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="LineageOS/android_hardware_libhardware_legacy" groups="pdk" />
   <include name="snippets/hal_cm_all.xml" />
-  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" />
-  <project path="hardware/samsung_slsi/exynos5" name="LineageOS/android_hardware_samsung_slsi_exynos5" />
+  <!-- project path="hardware/samsung" name="LineageOS/android_hardware_samsung" />
+  <project path="hardware/samsung_slsi/exynos5" name="LineageOS/android_hardware_samsung_slsi_exynos5" /-->
   <project path="hardware/ti/omap4" name="LineageOS/android_hardware_ti_omap4" />
   <project path="hardware/ti/omap4xxx" name="LineageOS/android_hardware_ti_omap4xxx" groups="omap4" />
   <project path="hardware/ti/wlan" name="LineageOS/android_hardware_ti_wlan" />
