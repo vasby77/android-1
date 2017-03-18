@@ -18,7 +18,6 @@
            sync-c="true"
            sync-j="4" />
   
-  <project path="device/samsung/logands" name="Samsung-BCM/android_device_samsung_logands" remote="github" revision="cm-13.0" />
   <project path="device/samsung/logan" name="Samsung-BCM/android_device_samsung_logan" remote="github" revision="cm-13.0" />
   <project path="device/samsung/bcm-common" name="Samsung-BCM/android_device_samsung_bcm-common" remote="github" revision="cm-13.0" />
   
@@ -72,7 +71,7 @@
   <project path="external/bouncycastle" name="LineageOS/android_external_bouncycastle" groups="pdk" />
   <project path="external/brctl" name="LineageOS/android_external_brctl" />
   <project path="external/bzip2" name="LineageOS/android_external_bzip2" groups="pdk" />
-  <project path="external/chromium-webview" name="Samsung-KYLEPROXX/android_external_chromium-webview" clone-depth="1" />
+  <!-- <project path="external/chromium-webview" name="Samsung-KYLEPROXX/android_external_chromium-webview" clone-depth="1" / -->
   <project path="external/cmsdk-api-coverage" name="LineageOS/android_external_cmsdk-api-coverage" />
   <project path="external/connectivity" name="LineageOS/android_external_connectivity" />
   <project path="external/curl" name="LineageOS/android_external_curl" />
